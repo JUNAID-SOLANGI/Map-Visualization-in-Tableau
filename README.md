@@ -44,18 +44,6 @@ This project is a creative data visualization built using **Tableau Desktop Publ
 - ✅ **Custom Map Style**  
   Created with Mapbox to reflect a bold, vibrant Miami visual theme.
 
----
-
-## 📁 Project Files
-📦 miami-beach-venues-dashboard
-├── README.md
-├── miami_beach_venues_dataset.csv
-├── Tableau_Public_Final_Product.twbx
-├── images/
-│ ├── venue1.png
-│ ├── venue2.png
-│ └── ...
-└── Tableau_Public_Final_Product.png
 
 ---
 
