@@ -1,5 +1,5 @@
 # 📍 Miami Beach Venues | Interactive Map Visualization in Tableau
-![Uploading image.png…]
+<img width="3164" height="1319" alt="image" src="https://github.com/user-attachments/assets/e05f5d59-2241-4d4b-8e29-e03780452046" />
 
 
 
