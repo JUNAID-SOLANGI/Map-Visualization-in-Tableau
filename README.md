@@ -1,5 +1,6 @@
 # 📍 Miami Beach Venues | Interactive Map Visualization in Tableau
-![Uploading image.png…]()
+![Uploading image.png…]
+
 
 
 Welcome to the **Miami Beach Venues Dashboard**, a visually immersive Tableau project that showcases popular venues across the Miami Beach area. This project features a **custom-designed dataset**, enriched with detailed location data, and brought to life using **Mapbox custom styles** and **interactive visual storytelling** in Tableau.
